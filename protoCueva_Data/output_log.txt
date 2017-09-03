@@ -1,0 +1,44 @@
+Mono path[0] = 'C:/Users/luisd/Documents/tutorial/prototipo/protoCueva_Data/Managed'
+Mono path[1] = 'C:/Users/luisd/Documents/tutorial/prototipo/protoCueva_Data/Mono'
+Mono config path = 'C:/Users/luisd/Documents/tutorial/prototipo/protoCueva_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/luisd/Documents/tutorial/prototipo/protoCueva_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55382
+Multi-casting "[IP] 10.152.21.197 [Port] 55382 [Flags] 3 [Guid] 4092294359 [EditorId] 3201424782 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-9N4N2KI) [Debug] 1" to [225.0.0.222:54997]...
+Waiting for connection from host on [0.0.0.0:55382]...
+PlayerConnection accepted from [10.152.21.197] handle:0x2f0
+Started listening to [0.0.0.0:55382]
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,defer=y,address=0.0.0.0:56359
+PlayerConnection already initialized - listening to [0.0.0.0:55382]
+Player data archive not found at `C:/Users/luisd/Documents/tutorial/prototipo/protoCueva_Data/data.unity3d`, using local filesystemInitialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 840M (ID=0x1341)
+    Vendor:   NVIDIA
+    VRAM:     2020 MB
+    Driver:   21.21.13.7682
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\luisd\Documents\tutorial\prototipo\protoCueva_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\luisd\Documents\tutorial\prototipo\protoCueva_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\luisd\Documents\tutorial\prototipo\protoCueva_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\luisd\Documents\tutorial\prototipo\protoCueva_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\luisd\Documents\tutorial\prototipo\protoCueva_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\luisd\Documents\tutorial\prototipo\protoCueva_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\luisd\Documents\tutorial\prototipo\protoCueva_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\luisd\Documents\tutorial\prototipo\protoCueva_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\luisd\Documents\tutorial\prototipo\protoCueva_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\luisd\Documents\tutorial\prototipo\protoCueva_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\luisd\Documents\tutorial\prototipo\protoCueva_Data\Managed\FDTGloveUltraCSharpWrapper.dll (this message is harmless)
+Loading C:\Users\luisd\Documents\tutorial\prototipo\protoCueva_Data\Managed\FDTGloveUltraCSharpWrapper.dll into Unity Child Domain
+- Completed reload, in  0.040 seconds
+Platform assembly: C:\Users\luisd\Documents\tutorial\prototipo\protoCueva_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\luisd\Documents\tutorial\prototipo\protoCueva_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.598145 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3510 -> priority: 1 
+  Thread -> id: 2b4c -> priority: 1 
+Waiting for finish
